@@ -1,0 +1,6 @@
+I00:08:50 main.go:27] Initiated Main function....
+Server Running on port :8090
+I00:08:53 custom-context.go:83] GET : /api/v1/message/kusfdsdfsdfs - --GetMessages Function Initiated --
+I00:08:53 custom-context.go:83] GET : /api/v1/message/kusfdsdfsdfs - --GetMessages Function Executed --
+I00:08:56 custom-context.go:83] GET : /api/v1/message/ku - --GetMessages Function Initiated --
+I00:08:56 custom-context.go:83] GET : /api/v1/message/ku - --GetMessages Function Executed --
