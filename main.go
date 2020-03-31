@@ -22,6 +22,7 @@ func main() {
 	log_msg := ""
 	log_msg += "Initiated Main function....\n"
 	r := gin.Default()
+
 	router.GRPCServiceRouter(r)
 	log_msg += "Server Running on port :" + config.Config.Server_Port
 	logger.Info(log_msg)
