@@ -9,4 +9,3 @@ RUN GOPATH=/tmp && \
 EXPOSE 8090
 WORKDIR /tmp/src/github.com/grpc_server_demo
 CMD ["./grpc_server_demo"]
-
